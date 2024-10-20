@@ -1,11 +1,12 @@
-
 ![Logo](https://raw.githubusercontent.com/BALMUSDAQ-STUDIO/Balmuzdaq-logos/refs/heads/main/Balmuzdaq_white.png)
 
-<h1 align="center">Educational Materials App</h1>
+<h1 align="center">CourseFusion</h1>
 
 <img src="https://github.com/BALMUZDAQ-STUDIO/Balmuzdaq-logos/blob/main/Group%2086.png" alt="App Preview" width="400" align="right"/>
 
-**Educational Materials App** is a React Native application designed to help users upload, manage, and process educational content using AI. The app allows users to create custom courses from their materials or explore and take courses created by other users. It's a powerful platform for personalized learning experiences and community-driven education.
+**CourseFusion** is a cutting-edge React Native application designed to revolutionize how users interact with educational content. It provides a seamless platform where users can easily upload various types of learning materials, including documents, PDFs, presentations, and more, which are then analyzed and structured by advanced AI algorithms. This AI-driven approach transforms static educational resources into dynamic, interactive learning experiences, tailored to each user’s unique needs.
+
+Users can effortlessly create custom courses from their own educational materials, using AI to suggest optimal content structures, quizzes, and exercises that enhance learning outcomes. Additionally, CourseFusion offers access to a growing library of courses created by other users within the community. Whether you are an individual looking to share your knowledge or a learner seeking new insights, CourseFusion provides a personalized, user-friendly environment for both course creation and discovery.
 
 ## Features
 
@@ -15,6 +16,7 @@
 - **Interactive Learning**: Engage with quizzes, exercises, and AI-generated summaries as part of the learning process.
 
 ## Tech Stack
+
 
 - **React Native**: Framework for building cross-platform mobile apps.
 - **Expo**: Used for easy development, deployment, and testing.
