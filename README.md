@@ -1,4 +1,4 @@
-![Logo](https://raw.githubusercontent.com/BALMUSDAQ-STUDIO/Balmuzdaq-logos/refs/heads/main/Balmuzdaq_white.png)
+![Logo](https://github.com/BALMUZDAQ-STUDIO/Balmuzdaq-logos/blob/main/balmuz_logo_mindhelpbot.png)
 
 <h1 align="center">CourseFusion</h1>
 
